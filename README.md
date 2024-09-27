@@ -1,0 +1,2 @@
+# pythonf-rdjupning
+kunskapkontroll
